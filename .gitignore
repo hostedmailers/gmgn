@@ -1,0 +1,35 @@
+# CSV files
+*.csv
+
+# JSON files
+*.json
+
+# Python virtual environment
+env/
+venv/
+.env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
